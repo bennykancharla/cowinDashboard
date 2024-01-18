@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.chart-container {
+  width: 90%;
+  padding: 20px;
+  background-color: #1c1c2b;
+  margin-bottom: 10px;
+}
+
+.chart-heading {
+  color: #cbd5e1;
+}

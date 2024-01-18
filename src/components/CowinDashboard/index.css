@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.main-bg {
+  height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: centerS;
+
+  padding-left: 70px;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.website-logo {
+  width: 50px;
+  margin: 15px;
+}
+
+.nav-heading {
+  color: #2cc6c6;
+  font-size: 30px;
+}
+
+.main-heading {
+  color: #ffffff;
+}
